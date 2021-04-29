@@ -1,0 +1,33 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\c++"
+		},
+		{
+			"path": "c:\\Users\\sahas\\Documents\\GitHub"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"xstring": "cpp",
+			"ios": "cpp",
+			"xiosbase": "cpp",
+			"iostream": "cpp",
+			"list": "cpp",
+			"ostream": "cpp",
+			"xhash": "cpp",
+			"xtree": "cpp",
+			"xutility": "cpp",
+			"vector": "cpp",
+			"iosfwd": "cpp",
+			"string": "cpp",
+			"stdexcept": "cpp",
+			"fstream": "cpp",
+			"simavrheader.h": "c"
+		},
+		"python.pythonPath": "C:\\Users\\sahas\\AppData\\Local\\Programs\\Python\\Python38\\python.exe"
+	}
+}
